@@ -7,10 +7,8 @@
 
 ## References and Resources
 
-N/A
+- [codingtechroom.com](https://codingtechroom.com/question/-retrieve-selected-item-listview-android) to know to use the `onItemClickListener` to select an item
 
 ## Verbal Collaboration
 
-| Student Name | CCID |
-| ------------ | ---- |
-| N/A          | N/A  |
+One of the TAs
