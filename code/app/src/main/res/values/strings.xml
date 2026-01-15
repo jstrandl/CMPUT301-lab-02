@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="content_sample_text">sample_text</string>
+    <string name="delete_city_button">Delete City</string>
+    <string name="add_city_button">Add City</string>
+    <string name="enter_city_text_button">Enter</string>
+    <string name="city_name_text_field_text">City Name</string>
+</resources>
